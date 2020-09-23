@@ -23,3 +23,7 @@ Graph neural network for recommendation
 2. **Inductive Representation Learning on Large Graphs**. NIPS 2017. [paper](https://arxiv.org/abs/1706.02216)
 
     William L. Hamilton, Rex Ying, Jure Leskovec
+
+3. **Towards Deeper Graph Neural Networks**. KDD 2018. [paper](https://dl.acm.org/doi/10.1145/3394486.3403076)
+
+    Liu, Meng, Gao, Hongyang, Ji, Shuiwang
